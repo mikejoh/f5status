@@ -1,5 +1,5 @@
 # f5status
-A very bulky script that fetches VS status from the F5 BIG-IP REST API and outputs the response in a colorful way. I will change the design of the script when i have time.
+A script that fetches VS status from the F5 BIG-IP REST API and outputs the response in a colorful way. I will change the design of the script when i have time.
 
 ### Get started
 1. Download httplib2 via Python setuptools (via pip or from your Linux distribution repo/Cygwin repo)
