@@ -7,8 +7,9 @@ A script that fetches VS status from the F5 BIG-IP REST API and outputs the resp
 3. Add your F5 environment and nodes in the `f5status.conf` file
 3. Run the command, see below for an example
 
-`$ python f5status.py --node lab01 --env LAB --user admin --password-from-file apipass.txt`
-
+```
+$ f5status.py --node lab01 --env LAB --user admin --password-from-file apipass.txt
+```
 ### Example config contents
 ```
 [LAB]
